@@ -39,7 +39,7 @@ $ yarn dev
 <h3>🖼 Layout</h3>
 <img src="/.github/home_nada_tocando.png">
 <img src="/.github/home_tocando.png">
-<img src="/.github/logo_podcastr.png">
+<img src="/.github/home_interno.png">
 
 ## 📝 Licença
 <p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
