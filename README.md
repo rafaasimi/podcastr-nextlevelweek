@@ -19,6 +19,7 @@ Esse projeto está utilizando as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 - [JSON Server](https://github.com/typicode/json-server)
+- [RC-Slider](https://github.com/schrodinger/rc-slider)
 
 
 ## 🎲 Como utilizar
